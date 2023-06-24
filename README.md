@@ -7,6 +7,7 @@ Demo data transaction using api test using JMeter
 ## Technology Used
 
 -JDK
+-Java
 -Jmeter
 
 ## Screenshot
